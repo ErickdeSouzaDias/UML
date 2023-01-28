@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T14:09:54.058Z" agent="5.0 (X11; Ubuntu)" etag="ClD-76LOxv6ecNgPFhIl" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T14:12:09.121Z" agent="5.0 (X11; Ubuntu)" etag="M-IY5W31GaY6mHrHGzZP" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1120" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#3d3846" math="0" shadow="0">
       <root>
@@ -119,6 +119,9 @@
         </mxCell>
         <mxCell id="kz7xEP7K3QNHTo7mKkaT-7" value="Finalizada" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=none;fontColor=#393C56;" connectable="0" vertex="1" parent="kz7xEP7K3QNHTo7mKkaT-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kz7xEP7K3QNHTo7mKkaT-10" value="Criação de pastas padrrão" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="1090" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
