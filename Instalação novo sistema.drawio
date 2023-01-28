@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T14:12:09.121Z" agent="5.0 (X11; Ubuntu)" etag="M-IY5W31GaY6mHrHGzZP" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T14:27:20.082Z" agent="5.0 (X11; Ubuntu)" etag="ewM97BMepJPz6Gd28Ru2" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1120" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#3d3846" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#3d3846" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -120,8 +120,14 @@
         <mxCell id="kz7xEP7K3QNHTo7mKkaT-7" value="Finalizada" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=none;fontColor=#393C56;" connectable="0" vertex="1" parent="kz7xEP7K3QNHTo7mKkaT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kz7xEP7K3QNHTo7mKkaT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kz7xEP7K3QNHTo7mKkaT-10" target="kz7xEP7K3QNHTo7mKkaT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kz7xEP7K3QNHTo7mKkaT-10" value="Criação de pastas padrrão" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1090" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kz7xEP7K3QNHTo7mKkaT-12" value="Lista de pastas" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="1240" width="80" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
