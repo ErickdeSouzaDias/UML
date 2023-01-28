@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T03:10:28.908Z" agent="5.0 (X11; Ubuntu)" etag="zDPjjO5rvQFW00ZW6ULw" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-28T03:15:55.041Z" agent="5.0 (X11; Ubuntu)" etag="uHulBT4VSu-BFxZpr9fc" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="794" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,18 @@
         </mxCell>
         <mxCell id="4GynWKSHoL_zDZqFrK0s-13" value="Sim" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="4GynWKSHoL_zDZqFrK0s-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4GynWKSHoL_zDZqFrK0s-15" value="Instalação de pacotes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4GynWKSHoL_zDZqFrK0s-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="810" as="sourcePoint" />
+            <mxPoint x="220" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4GynWKSHoL_zDZqFrK0s-17" value="Lista de programas" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="850" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
